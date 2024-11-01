@@ -1,0 +1,3 @@
+#include "Window.h"
+
+ARM_ICON ICON Ganesha.ico

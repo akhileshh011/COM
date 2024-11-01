@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{939E1C5E-861F-4FBA-9148-56B7BD4405F1}]
+@="ARM_ClassFactory"
+[HKEY_CLASSES_ROOT\CLSID\{939E1C5E-861F-4FBA-9148-56B7BD4405F1}\InprocServer32]
+@="C:\\Windows\\System32\\ClassFactoryDllServerWithRegFile.dll" 
